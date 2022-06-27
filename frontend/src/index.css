@@ -1,0 +1,13 @@
+img {
+    height: 200px;
+}
+label {
+    display: block;
+}
+
+.off {
+    display: none;
+}
+.on {
+    display: initial;
+}
